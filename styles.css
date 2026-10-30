@@ -98,3 +98,6 @@ footer p{margin:0}
   html{scroll-behavior:auto}.net{animation:none}
   .js .reveal{opacity:1;transform:none;transition:none}
 }
+
+.card.feat{border-color:rgba(45,212,191,.45);background:linear-gradient(135deg,rgba(45,212,191,.1),rgba(96,165,250,.06))}
+@media(min-width:861px){.card.feat{grid-column:span 2}}
